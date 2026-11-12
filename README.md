@@ -10,12 +10,6 @@ Tokyo Zombie, an original arcade rail shooter that plunges you into a vibrant, a
 ## GitHub Tree API (Direct JSON)
 [https://api.github.com/repos/igiteam/virtua-cop-2-tokyo-zombie/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/virtua-cop-2-tokyo-zombie/git/trees/main?recursive=1)
 
-## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
-
-[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
-
-[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
-
 
 ![Explorer status badge](https://github.com/jevarg/re-virtua-cop-2/actions/workflows/explorer.yml/badge.svg)
 
@@ -26,7 +20,15 @@ Go checkout [the Wiki](https://github.com/jevarg/re-virtua-cop-2/wiki) for more 
 ### Asset Explorer
 You can also check the [assets explorer](https://jevarg.github.io/re-virtua-cop-2/) (More info in the explorer's [README.md](tools/explorer/README.md))
 
-<img width="1434" height="906" alt="image" src="https://github.com/user-attachments/assets/88ac9b7b-bbd6-4fa9-97ad-629b5781ea7c" />
+[![Asset Explorer screenshot](https://github.com/user-attachments/assets/88ac9b7b-bbd6-4fa9-97ad-629b5781ea7c)](https://jevarg.github.io/re-virtua-cop-2/)
+
+
+## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
+
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
 
 ### Important Note
 
